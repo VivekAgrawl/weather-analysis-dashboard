@@ -1,10 +1,10 @@
 # Weather Forecasting Analysis and Visualization
 
-# About the project:
+## About the project:
 Weather prediction is one of the most certainly required information in all over the regions
 It involves collecting global meteorological surface and upper-air observations, preparing global surface and upper air pressure, temperature, moisture, and wind analyses at frequent time intervals based upon these observations we predict some data for upcoming days weather conditions
 
-# Project Description: 
+## Project Description: 
 
 This data contains day wise weather attributes from 2022 to July 2033 (predicted data)
 Columns are as follows :
@@ -43,7 +43,7 @@ Prerequisites for the Project (mandatory):
 4.	Python
 
 
-# Module 1: Pre-processing, Analysing data using SQL
+## Module 1: Pre-processing, Analysing data using SQL
 
 In this module, you will query the dataset using structured query language to gain insights from the database. The problem statements to be solved will be provided to you and you need to provide the solution for the same using your logic. Different concepts of SQL will be used in this process such as aggregating the data, grouping the data, ordering the data, etc. Module 1 consists of subtasks which are as follows
 
@@ -63,7 +63,7 @@ Data preprocessing is one of the important steps in data analytics because data 
 ●	Subtask 4: Encoding data into suitable format
 
 
-Go through both cleaned datasets for a perfect understanding:
+➢	Task 2: Go through both cleaned datasets for a perfect understanding:
 
 Since you have analyzed the complete data set accurately, Let's answer the following requirements to proceed further for a better understanding 
 
@@ -75,15 +75,11 @@ Since you have analyzed the complete data set accurately, Let's answer the follo
 
 4.	Can you find the maximum number of days for which temperature dropped
 
-5.	Can you find the average of average humidity from the dataset 
+5.	Can you find the average of average humidity from the dataset (NOTE: should contain the following clauses: group by, order by, date)
 
-( NOTE: should contain the following clauses: group by, order by, date )
+6.	Use the GROUP BY clause on the Date column and make a query to fetch details for average windspeed (which is now windspeed done in task 3)
 
-6.	Use the GROUP BY clause on the Date column and make a query to fetch details for average windspeed ( which is now windspeed done in task 3 )
-
-7.	Please add the data in the dataset for 2034 and 2035 as well as forecast predictions for these years 
-
-( NOTE: data consistency and uniformity should be maintained )
+7.	Please add the data in the dataset for 2034 and 2035 as well as forecast predictions for these years (NOTE: data consistency and uniformity should be maintained)
 
 8.	If the maximum gust speed increases from 55mph, fetch the details for the next 4 days
 
@@ -93,7 +89,7 @@ Since you have analyzed the complete data set accurately, Let's answer the follo
 
 
 
-# Module 2: Visualizing data using Power BI
+## Module 2: Visualizing data using Power BI
 
 Here comes the next module. You will use the weather datasets and the data table you created to visualize what the numbers in and behind the data want to convey. You have to create a dashboard for the same using different statistical graphs and diagrams for a visual understanding and analysis. Given below are the requirements, create a dashboard consisting of mentioned visuals.
 
